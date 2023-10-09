@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj": {}
+    "c:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj": {
+    "c:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj",
+        "projectPath": "c:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\mhced\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\obj\\",
+        "outputPath": "c:\\Users\\mhced\\Desktop\\Prog II\\Proyectos\\Proyecto2023\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhced\\AppData\\Roaming\\NuGet\\NuGet.Config"
